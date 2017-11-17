@@ -11,7 +11,7 @@
   "dependencies": {
     "coffee-script": "1.4.x",
     "imagemagick": "git://github.com/rsms/node-imagemagick.git",
-    "knox": "git://github.com/CodeLinkIO/knox.git",
+    "knox": "git://github.com/CodeLinkIO/knox.git#master",
     "async": "0.1.x"
   },
   "devDependencies": {
